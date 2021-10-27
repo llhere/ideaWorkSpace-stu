@@ -1,5 +1,5 @@
-在父目录根节点：
-    git submodule add https://github.com/llhere/CurrentLimiting.git CurrentLimiting
-    git status
-    git commit -m "add submodule  CurrentLimiting"
-    像远程仓库推送
+在父目录根节点：git submodule add （git仓库地址） （本地仓库路径）：例如
+    1、git submodule add https://github.com/llhere/SpringCliud-Config-Center.git chen-cloud-mashibing/SpringCliud-Config-Center
+    2、git status
+    3、git commit -m "add submodule chen-cloud-mashibing/SpringCliud-Config-Center"
+    4、向远程仓库推送
