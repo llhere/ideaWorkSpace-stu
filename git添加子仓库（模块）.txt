@@ -9,8 +9,3 @@
     2、git status
     3、git commit -m "remove"
     4、向远程仓库推送
-
-     CurrentLimiting
-     CurrentLimiting-bucket
-     EurekaColony
-     EurekaConlony
