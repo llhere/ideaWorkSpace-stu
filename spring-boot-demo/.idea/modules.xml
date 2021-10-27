@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-admin/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/demo-admin/admin-client/admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-activiti/demo-activiti.iml" filepath="$PROJECT_DIR$/demo-activiti/demo-activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-actuator/demo-actuator.iml" filepath="$PROJECT_DIR$/demo-actuator/demo-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-admin/demo-admin.iml" filepath="$PROJECT_DIR$/demo-admin/demo-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-admin/admin-server/demo-admin-server.iml" filepath="$PROJECT_DIR$/demo-admin/admin-server/demo-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-async/demo-async.iml" filepath="$PROJECT_DIR$/demo-async/demo-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-cache-ehcache/demo-cache-ehcache.iml" filepath="$PROJECT_DIR$/demo-cache-ehcache/demo-cache-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-cache-redis/demo-cache-redis.iml" filepath="$PROJECT_DIR$/demo-cache-redis/demo-cache-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-codegen/demo-codegen.iml" filepath="$PROJECT_DIR$/demo-codegen/demo-codegen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-docker/demo-docker.iml" filepath="$PROJECT_DIR$/demo-docker/demo-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-dubbo/demo-dubbo.iml" filepath="$PROJECT_DIR$/demo-dubbo/demo-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-dynamic-datasource/demo-dynamic-datasource.iml" filepath="$PROJECT_DIR$/demo-dynamic-datasource/demo-dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-elasticsearch/demo-elasticsearch.iml" filepath="$PROJECT_DIR$/demo-elasticsearch/demo-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-elasticsearch-rest-high-level-client/demo-elasticsearch-rest-high-level-client.iml" filepath="$PROJECT_DIR$/demo-elasticsearch-rest-high-level-client/demo-elasticsearch-rest-high-level-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-email/demo-email.iml" filepath="$PROJECT_DIR$/demo-email/demo-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-exception-handler/demo-exception-handler.iml" filepath="$PROJECT_DIR$/demo-exception-handler/demo-exception-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-flyway/demo-flyway.iml" filepath="$PROJECT_DIR$/demo-flyway/demo-flyway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-graylog/demo-graylog.iml" filepath="$PROJECT_DIR$/demo-graylog/demo-graylog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-helloworld/demo-helloworld.iml" filepath="$PROJECT_DIR$/demo-helloworld/demo-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-https/demo-https.iml" filepath="$PROJECT_DIR$/demo-https/demo-https.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-ldap/demo-ldap.iml" filepath="$PROJECT_DIR$/demo-ldap/demo-ldap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-log-aop/demo-log-aop.iml" filepath="$PROJECT_DIR$/demo-log-aop/demo-log-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-logback/demo-logback.iml" filepath="$PROJECT_DIR$/demo-logback/demo-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-mongodb/demo-mongodb.iml" filepath="$PROJECT_DIR$/demo-mongodb/demo-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-mq-kafka/demo-mq-kafka.iml" filepath="$PROJECT_DIR$/demo-mq-kafka/demo-mq-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-mq-rabbitmq/demo-mq-rabbitmq.iml" filepath="$PROJECT_DIR$/demo-mq-rabbitmq/demo-mq-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-mq-rocketmq/demo-mq-rocketmq.iml" filepath="$PROJECT_DIR$/demo-mq-rocketmq/demo-mq-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-multi-datasource-jpa/demo-multi-datasource-jpa.iml" filepath="$PROJECT_DIR$/demo-multi-datasource-jpa/demo-multi-datasource-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-multi-datasource-mybatis/demo-multi-datasource-mybatis.iml" filepath="$PROJECT_DIR$/demo-multi-datasource-mybatis/demo-multi-datasource-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-neo4j/demo-neo4j.iml" filepath="$PROJECT_DIR$/demo-neo4j/demo-neo4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-oauth/demo-oauth.iml" filepath="$PROJECT_DIR$/demo-oauth/demo-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-orm-beetlsql/demo-orm-beetlsql.iml" filepath="$PROJECT_DIR$/demo-orm-beetlsql/demo-orm-beetlsql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-orm-jdbctemplate/demo-orm-jdbctemplate.iml" filepath="$PROJECT_DIR$/demo-orm-jdbctemplate/demo-orm-jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-orm-jpa/demo-orm-jpa.iml" filepath="$PROJECT_DIR$/demo-orm-jpa/demo-orm-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-orm-mybatis/demo-orm-mybatis.iml" filepath="$PROJECT_DIR$/demo-orm-mybatis/demo-orm-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-orm-mybatis-mapper-page/demo-orm-mybatis-mapper-page.iml" filepath="$PROJECT_DIR$/demo-orm-mybatis-mapper-page/demo-orm-mybatis-mapper-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-orm-mybatis-plus/demo-orm-mybatis-plus.iml" filepath="$PROJECT_DIR$/demo-orm-mybatis-plus/demo-orm-mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-pay/demo-pay.iml" filepath="$PROJECT_DIR$/demo-pay/demo-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-properties/demo-properties.iml" filepath="$PROJECT_DIR$/demo-properties/demo-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-ratelimit-guava/demo-ratelimit-guava.iml" filepath="$PROJECT_DIR$/demo-ratelimit-guava/demo-ratelimit-guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-ratelimit-redis/demo-ratelimit-redis.iml" filepath="$PROJECT_DIR$/demo-ratelimit-redis/demo-ratelimit-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-rbac-security/demo-rbac-security.iml" filepath="$PROJECT_DIR$/demo-rbac-security/demo-rbac-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-rbac-shiro/demo-rbac-shiro.iml" filepath="$PROJECT_DIR$/demo-rbac-shiro/demo-rbac-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-session/demo-session.iml" filepath="$PROJECT_DIR$/demo-session/demo-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-sharding-jdbc/demo-sharding-jdbc.iml" filepath="$PROJECT_DIR$/demo-sharding-jdbc/demo-sharding-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-social/demo-social.iml" filepath="$PROJECT_DIR$/demo-social/demo-social.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-swagger/demo-swagger.iml" filepath="$PROJECT_DIR$/demo-swagger/demo-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-swagger-beauty/demo-swagger-beauty.iml" filepath="$PROJECT_DIR$/demo-swagger-beauty/demo-swagger-beauty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-task/demo-task.iml" filepath="$PROJECT_DIR$/demo-task/demo-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-task-quartz/demo-task-quartz.iml" filepath="$PROJECT_DIR$/demo-task-quartz/demo-task-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-task-xxl-job/demo-task-xxl-job.iml" filepath="$PROJECT_DIR$/demo-task-xxl-job/demo-task-xxl-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-template-beetl/demo-template-beetl.iml" filepath="$PROJECT_DIR$/demo-template-beetl/demo-template-beetl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-template-enjoy/demo-template-enjoy.iml" filepath="$PROJECT_DIR$/demo-template-enjoy/demo-template-enjoy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-template-freemarker/demo-template-freemarker.iml" filepath="$PROJECT_DIR$/demo-template-freemarker/demo-template-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-template-thymeleaf/demo-template-thymeleaf.iml" filepath="$PROJECT_DIR$/demo-template-thymeleaf/demo-template-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-tio/demo-tio.iml" filepath="$PROJECT_DIR$/demo-tio/demo-tio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-uflo/demo-uflo.iml" filepath="$PROJECT_DIR$/demo-uflo/demo-uflo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-upload/demo-upload.iml" filepath="$PROJECT_DIR$/demo-upload/demo-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-ureport2/demo-ureport2.iml" filepath="$PROJECT_DIR$/demo-ureport2/demo-ureport2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-urule/demo-urule.iml" filepath="$PROJECT_DIR$/demo-urule/demo-urule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-war/demo-war.iml" filepath="$PROJECT_DIR$/demo-war/demo-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-websocket/demo-websocket.iml" filepath="$PROJECT_DIR$/demo-websocket/demo-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-websocket-socketio/demo-websocket-socketio.iml" filepath="$PROJECT_DIR$/demo-websocket-socketio/demo-websocket-socketio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-zookeeper/demo-zookeeper.iml" filepath="$PROJECT_DIR$/demo-zookeeper/demo-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-dubbo/dubbo-common/dubbo-common.iml" filepath="$PROJECT_DIR$/demo-dubbo/dubbo-common/dubbo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-dubbo/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/demo-dubbo/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-dubbo/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/demo-dubbo/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-oauth/oauth-authorization-server/oauth-authorization-server.iml" filepath="$PROJECT_DIR$/demo-oauth/oauth-authorization-server/oauth-authorization-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-oauth/oauth-resource-server/oauth-resource-server.iml" filepath="$PROJECT_DIR$/demo-oauth/oauth-resource-server/oauth-resource-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-demo.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-demo.iml" />
+    </modules>
+  </component>
+</project>

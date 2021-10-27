@@ -3,3 +3,13 @@
     2、git status
     3、git commit -m "add submodule chen-cloud-mashibing/SpringCliud-Config-Center"
     4、向远程仓库推送
+
+遇到错误删除文件：
+    1、git rm -f EurekaColony
+    2、git status
+    3、git commit -m "remove"
+    4、向远程仓库推送
+
+     CurrentLimiting
+     CurrentLimiting-bucket
+     EurekaColony

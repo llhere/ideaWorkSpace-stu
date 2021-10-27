@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+      <entry name="*.idea" />
+      <entry name="*.iml" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-flyway" />
+        <module name="demo-social" />
+        <module name="demo-war" />
+        <module name="demo-websocket" />
+        <module name="demo-mq-kafka" />
+        <module name="demo-swagger" />
+        <module name="demo-cache-ehcache" />
+        <module name="dubbo-common" />
+        <module name="demo-neo4j" />
+        <module name="demo-zookeeper" />
+        <module name="demo-codegen" />
+        <module name="demo-admin-server" />
+        <module name="demo-orm-jpa" />
+        <module name="oauth-authorization-server" />
+        <module name="demo-task" />
+        <module name="demo-https" />
+        <module name="demo-ratelimit-redis" />
+        <module name="demo-async" />
+        <module name="demo-orm-mybatis" />
+        <module name="demo-swagger-beauty" />
+        <module name="demo-orm-mybatis-mapper-page" />
+        <module name="demo-rbac-shiro" />
+        <module name="demo-task-xxl-job" />
+        <module name="demo-elasticsearch-rest-high-level-client" />
+        <module name="demo-elasticsearch" />
+        <module name="demo-docker" />
+        <module name="demo-upload" />
+        <module name="demo-ureport2" />
+        <module name="admin-client" />
+        <module name="demo-dynamic-datasource" />
+        <module name="demo-email" />
+        <module name="demo-pay" />
+        <module name="demo-orm-jdbctemplate" />
+        <module name="demo-task-quartz" />
+        <module name="demo-graylog" />
+        <module name="demo-logback" />
+        <module name="demo-cache-redis" />
+        <module name="demo-uflo" />
+        <module name="demo-tio" />
+        <module name="demo-rbac-security" />
+        <module name="demo-urule" />
+        <module name="demo-actuator" />
+        <module name="demo-template-enjoy" />
+        <module name="demo-orm-mybatis-plus" />
+        <module name="demo-multi-datasource-jpa" />
+        <module name="demo-template-thymeleaf" />
+        <module name="demo-template-beetl" />
+        <module name="demo-session" />
+        <module name="demo-properties" />
+        <module name="demo-mongodb" />
+        <module name="demo-multi-datasource-mybatis" />
+        <module name="demo-exception-handler" />
+        <module name="demo-mq-rocketmq" />
+        <module name="demo-ratelimit-guava" />
+        <module name="demo-sharding-jdbc" />
+        <module name="demo-orm-beetlsql" />
+        <module name="demo-template-freemarker" />
+        <module name="demo-helloworld" />
+        <module name="oauth-resource-server" />
+        <module name="demo-websocket-socketio" />
+        <module name="dubbo-provider" />
+        <module name="demo-mq-rabbitmq" />
+        <module name="demo-activiti" />
+        <module name="demo-log-aop" />
+        <module name="demo-ldap" />
+        <module name="dubbo-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="admin-client" target="1.8" />
+      <module name="demo-activiti" target="1.8" />
+      <module name="demo-actuator" target="1.8" />
+      <module name="demo-admin" target="1.8" />
+      <module name="demo-admin-server" target="1.8" />
+      <module name="demo-async" target="1.8" />
+      <module name="demo-cache-ehcache" target="1.8" />
+      <module name="demo-cache-redis" target="1.8" />
+      <module name="demo-codegen" target="1.8" />
+      <module name="demo-docker" target="1.8" />
+      <module name="demo-dubbo" target="1.8" />
+      <module name="demo-dynamic-datasource" target="1.8" />
+      <module name="demo-elasticsearch" target="1.8" />
+      <module name="demo-elasticsearch-rest-high-level-client" target="1.8" />
+      <module name="demo-email" target="1.8" />
+      <module name="demo-exception-handler" target="1.8" />
+      <module name="demo-flyway" target="1.8" />
+      <module name="demo-graylog" target="1.8" />
+      <module name="demo-helloworld" target="1.8" />
+      <module name="demo-https" target="1.8" />
+      <module name="demo-ldap" target="1.8" />
+      <module name="demo-log-aop" target="1.8" />
+      <module name="demo-logback" target="1.8" />
+      <module name="demo-mongodb" target="1.8" />
+      <module name="demo-mq-kafka" target="1.8" />
+      <module name="demo-mq-rabbitmq" target="1.8" />
+      <module name="demo-mq-rocketmq" target="1.8" />
+      <module name="demo-multi-datasource-jpa" target="1.8" />
+      <module name="demo-multi-datasource-mybatis" target="1.8" />
+      <module name="demo-neo4j" target="1.8" />
+      <module name="demo-oauth" target="1.8" />
+      <module name="demo-orm-beetlsql" target="1.8" />
+      <module name="demo-orm-jdbctemplate" target="1.8" />
+      <module name="demo-orm-jpa" target="1.8" />
+      <module name="demo-orm-mybatis" target="1.8" />
+      <module name="demo-orm-mybatis-mapper-page" target="1.8" />
+      <module name="demo-orm-mybatis-plus" target="1.8" />
+      <module name="demo-pay" target="1.8" />
+      <module name="demo-properties" target="1.8" />
+      <module name="demo-ratelimit-guava" target="1.8" />
+      <module name="demo-ratelimit-redis" target="1.8" />
+      <module name="demo-rbac-security" target="1.8" />
+      <module name="demo-rbac-shiro" target="1.8" />
+      <module name="demo-session" target="1.8" />
+      <module name="demo-sharding-jdbc" target="1.8" />
+      <module name="demo-social" target="1.8" />
+      <module name="demo-swagger" target="1.8" />
+      <module name="demo-swagger-beauty" target="1.8" />
+      <module name="demo-task" target="1.8" />
+      <module name="demo-task-quartz" target="1.8" />
+      <module name="demo-task-xxl-job" target="1.8" />
+      <module name="demo-template-beetl" target="1.8" />
+      <module name="demo-template-enjoy" target="1.8" />
+      <module name="demo-template-freemarker" target="1.8" />
+      <module name="demo-template-thymeleaf" target="1.8" />
+      <module name="demo-tio" target="1.8" />
+      <module name="demo-uflo" target="1.8" />
+      <module name="demo-upload" target="1.8" />
+      <module name="demo-ureport2" target="1.8" />
+      <module name="demo-urule" target="1.8" />
+      <module name="demo-war" target="1.8" />
+      <module name="demo-websocket" target="1.8" />
+      <module name="demo-websocket-socketio" target="1.8" />
+      <module name="demo-zookeeper" target="1.8" />
+      <module name="dubbo-common" target="1.8" />
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="dubbo-provider" target="1.8" />
+      <module name="oauth-authorization-server" target="1.8" />
+      <module name="oauth-resource-server" target="1.8" />
+      <module name="spring-boot-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="EclipseCompilerSettings">
+    <option name="GENERATE_NO_WARNINGS" value="true" />
+  </component>
+  <component name="JavacSettings">
+    <option name="GENERATE_NO_WARNINGS" value="true" />
+  </component>
+</project>

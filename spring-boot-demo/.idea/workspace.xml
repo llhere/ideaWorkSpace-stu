@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e594f9c3-1198-4a98-91a6-ce02f5a1f199" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../apache-maven-3.6.0/repository" />
+        <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1ckjUBVWK1A98qLWHHd4K98xgJE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootDemoSwaggerApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticsearchApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-elasticsearch-rest-high-level-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.elasticsearch.ElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-elasticsearch-rest-high-level-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.elasticsearch.ElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoActivitiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-activiti" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.activiti.SpringBootDemoActivitiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoActivitiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-activiti" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.activiti.SpringBootDemoActivitiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoActuatorApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.actuator.SpringBootDemoActuatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.actuator.SpringBootDemoActuatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoAdminClientApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.admin.client.SpringBootDemoAdminClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoAdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-admin-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.admin.client.SpringBootDemoAdminClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoAdminServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-admin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.admin.server.SpringBootDemoAdminServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoAdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-admin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.admin.server.SpringBootDemoAdminServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoAsyncApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-async" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.async.SpringBootDemoAsyncApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoAsyncApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-async" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.async.SpringBootDemoAsyncApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoCacheEhcacheApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-cache-ehcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.cache.ehcache.SpringBootDemoCacheEhcacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoCacheEhcacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-cache-ehcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.cache.ehcache.SpringBootDemoCacheEhcacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoCacheRedisApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-cache-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.cache.redis.SpringBootDemoCacheRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoCacheRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-cache-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.cache.redis.SpringBootDemoCacheRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoCodegenApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-codegen" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.codegen.SpringBootDemoCodegenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoCodegenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-codegen" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.codegen.SpringBootDemoCodegenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoDockerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-docker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.docker.SpringBootDemoDockerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoDockerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-docker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.docker.SpringBootDemoDockerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoDubboConsumerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.dubbo.consumer.SpringBootDemoDubboConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoDubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-dubbo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.dubbo.consumer.SpringBootDemoDubboConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoDubboProviderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.dubbo.provider.SpringBootDemoDubboProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoDubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-dubbo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.dubbo.provider.SpringBootDemoDubboProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoDynamicDatasourceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-dynamic-datasource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.dynamic.datasource.SpringBootDemoDynamicDatasourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoDynamicDatasourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-dynamic-datasource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.dynamic.datasource.SpringBootDemoDynamicDatasourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoElasticsearchApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.elasticsearch.SpringBootDemoElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.elasticsearch.SpringBootDemoElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoEmailApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.email.SpringBootDemoEmailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoEmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.email.SpringBootDemoEmailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoExceptionHandlerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-exception-handler" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.exception.handler.SpringBootDemoExceptionHandlerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoExceptionHandlerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-exception-handler" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.exception.handler.SpringBootDemoExceptionHandlerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoFlywayApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-flyway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.flyway.SpringBootDemoFlywayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoFlywayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-flyway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.flyway.SpringBootDemoFlywayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoGraylogApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-graylog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.graylog.SpringBootDemoGraylogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoGraylogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-graylog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.graylog.SpringBootDemoGraylogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoHelloworldApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.helloworld.SpringBootDemoHelloworldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoHelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.helloworld.SpringBootDemoHelloworldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoHttpsApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-https" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.https.SpringBootDemoHttpsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoHttpsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-https" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.https.SpringBootDemoHttpsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoLogAopApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-log-aop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.log.aop.SpringBootDemoLogAopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoLogAopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-log-aop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.log.aop.SpringBootDemoLogAopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoLogbackApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-logback" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.logback.SpringBootDemoLogbackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoLogbackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-logback" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.logback.SpringBootDemoLogbackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMongodbApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mongodb.SpringBootDemoMongodbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMongodbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mongodb.SpringBootDemoMongodbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMqKafkaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-mq-kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mq.kafka.SpringBootDemoMqKafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMqKafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-mq-kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mq.kafka.SpringBootDemoMqKafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMqRabbitmqApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-mq-rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mq.rabbitmq.SpringBootDemoMqRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMqRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-mq-rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mq.rabbitmq.SpringBootDemoMqRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMqRocketmqApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-mq-rocketmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mq.rocketmq.SpringBootDemoMqRocketmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMqRocketmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-mq-rocketmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.mq.rocketmq.SpringBootDemoMqRocketmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMultiDatasourceJpaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-multi-datasource-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.multi.datasource.jpa.SpringBootDemoMultiDatasourceJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMultiDatasourceJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-multi-datasource-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.multi.datasource.jpa.SpringBootDemoMultiDatasourceJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMultiDatasourceMybatisApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-multi-datasource-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.multi.datasource.mybatis.SpringBootDemoMultiDatasourceMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMultiDatasourceMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-multi-datasource-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.multi.datasource.mybatis.SpringBootDemoMultiDatasourceMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoNeo4jApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-neo4j" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.neo4j.SpringBootDemoNeo4jApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoNeo4jApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-neo4j" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.neo4j.SpringBootDemoNeo4jApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOauthApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oauth-authorization-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.oauth.SpringBootDemoOauthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOauthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-oauth-authorization-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.oauth.SpringBootDemoOauthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmBeetlsqlApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-orm-beetlsql" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.beetlsql.SpringBootDemoOrmBeetlsqlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmBeetlsqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-beetlsql" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.beetlsql.SpringBootDemoOrmBeetlsqlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmJdbctemplateApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-orm-jdbctemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.jdbctemplate.SpringBootDemoOrmJdbctemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmJdbctemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-jdbctemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.jdbctemplate.SpringBootDemoOrmJdbctemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmJpaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-orm-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.jpa.SpringBootDemoOrmJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.jpa.SpringBootDemoOrmJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmMybatisApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-orm-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.mybatis.SpringBootDemoOrmMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.mybatis.SpringBootDemoOrmMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmMybatisMapperPageApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-orm-mybatis-mapper-page" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.mybatis.MapperAndPage.SpringBootDemoOrmMybatisMapperPageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmMybatisMapperPageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-mybatis-mapper-page" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.mybatis.MapperAndPage.SpringBootDemoOrmMybatisMapperPageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmMybatisPlusApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-orm-mybatis-plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.mybatis.plus.SpringBootDemoOrmMybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoOrmMybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-orm-mybatis-plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.orm.mybatis.plus.SpringBootDemoOrmMybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoPayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.pay.SpringBootDemoPayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoPropertiesApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-properties" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.properties.SpringBootDemoPropertiesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoPropertiesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-properties" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.properties.SpringBootDemoPropertiesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoRatelimitGuavaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-ratelimit-guava" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.ratelimit.guava.SpringBootDemoRatelimitGuavaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoRatelimitGuavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-ratelimit-guava" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.ratelimit.guava.SpringBootDemoRatelimitGuavaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoRatelimitRedisApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-ratelimit-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.ratelimit.redis.SpringBootDemoRatelimitRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoRatelimitRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-ratelimit-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.ratelimit.redis.SpringBootDemoRatelimitRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoRbacSecurityApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-rbac-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.rbac.security.SpringBootDemoRbacSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoRbacSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-rbac-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.rbac.security.SpringBootDemoRbacSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoRbacShiroApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-rbac-shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.rbac.shiro.SpringBootDemoRbacShiroApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoRbacShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-rbac-shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.rbac.shiro.SpringBootDemoRbacShiroApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoResourceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oauth-resource-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.oauth.SpringBootDemoResourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoResourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-oauth-resource-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.oauth.SpringBootDemoResourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoSessionApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-session" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.session.SpringBootDemoSessionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoSessionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-session" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.session.SpringBootDemoSessionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoShardingJdbcApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-sharding-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.sharding.jdbc.SpringBootDemoShardingJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoShardingJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-sharding-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.sharding.jdbc.SpringBootDemoShardingJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoSocialApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-social" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.social.SpringBootDemoSocialApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoSocialApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-social" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.social.SpringBootDemoSocialApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoSwaggerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.swagger.SpringBootDemoSwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoSwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.swagger.SpringBootDemoSwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoSwaggerBeautyApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-swagger-beauty" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.swagger.beauty.SpringBootDemoSwaggerBeautyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoSwaggerBeautyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-swagger-beauty" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.swagger.beauty.SpringBootDemoSwaggerBeautyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTaskApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.task.SpringBootDemoTaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.task.SpringBootDemoTaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTaskQuartzApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-task-quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.task.quartz.SpringBootDemoTaskQuartzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTaskQuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-task-quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.task.quartz.SpringBootDemoTaskQuartzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTaskXxlJobApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-task-xxl-job" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.task.xxl.job.SpringBootDemoTaskXxlJobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTaskXxlJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-task-xxl-job" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.task.xxl.job.SpringBootDemoTaskXxlJobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTemplateBeetlApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-template-beetl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.beetl.SpringBootDemoTemplateBeetlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTemplateBeetlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-template-beetl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.beetl.SpringBootDemoTemplateBeetlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTemplateEnjoyApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-template-enjoy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.enjoy.SpringBootDemoTemplateEnjoyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTemplateEnjoyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-template-enjoy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.enjoy.SpringBootDemoTemplateEnjoyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTemplateFreemarkerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-template-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.freemarker.SpringBootDemoTemplateFreemarkerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTemplateFreemarkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-template-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.freemarker.SpringBootDemoTemplateFreemarkerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTemplateThymeleafApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-template-thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.thymeleaf.SpringBootDemoTemplateThymeleafApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTemplateThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-template-thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.template.thymeleaf.SpringBootDemoTemplateThymeleafApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTioApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-tio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.springbootdemotio.SpringBootDemoTioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoTioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-tio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.springbootdemotio.SpringBootDemoTioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoUfloApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-uflo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.uflo.SpringBootDemoUfloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoUfloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-uflo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.uflo.SpringBootDemoUfloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoUploadApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.upload.SpringBootDemoUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.upload.SpringBootDemoUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoUreport2Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-ureport2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.ureport2.SpringBootDemoUreport2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoUreport2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-ureport2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.ureport2.SpringBootDemoUreport2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoUruleApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-urule" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.urule.SpringBootDemoUruleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoUruleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-urule" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.urule.SpringBootDemoUruleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoWarApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-war" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.war.SpringBootDemoWarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoWarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-war" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.war.SpringBootDemoWarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoWebsocketApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-websocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.websocket.SpringBootDemoWebsocketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoWebsocketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-websocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.websocket.SpringBootDemoWebsocketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoWebsocketSocketioApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-websocket-socketio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.websocket.socketio.SpringBootDemoWebsocketSocketioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoWebsocketSocketioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-websocket-socketio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.websocket.socketio.SpringBootDemoWebsocketSocketioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoZookeeperApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-zookeeper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.zookeeper.SpringBootDemoZookeeperApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoZookeeperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-zookeeper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xkcoding.zookeeper.SpringBootDemoZookeeperApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" />
+      <predefined_log_file id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52061" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="false" />
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.692" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" />
+      <predefined_log_file id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59373" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e594f9c3-1198-4a98-91a6-ce02f5a1f199" name="Default Changelist" comment="" />
+      <created>1591079498759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591079498759</updated>
+      <workItem from="1591079502147" duration="656000" />
+      <workItem from="1591087633859" duration="1749000" />
+      <workItem from="1591089413215" duration="56000" />
+      <workItem from="1634094905312" duration="484000" />
+      <workItem from="1635301276650" duration="515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
