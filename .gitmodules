@@ -7,3 +7,6 @@
 [submodule "CurrentLimiting"]
 	path = CurrentLimiting
 	url = https://github.com/llhere/CurrentLimiting.git
+[submodule "EurekaColony"]
+	path = EurekaColony
+	url = https://github.com/llhere/EurekaColony.git
