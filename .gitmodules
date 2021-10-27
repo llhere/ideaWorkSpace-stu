@@ -1,3 +1,6 @@
 [submodule "chen-cloud-mashibing/SpringCliud-Config-Center"]
 	path = chen-cloud-mashibing/SpringCliud-Config-Center
 	url = https://github.com/llhere/SpringCliud-Config-Center.git
+[submodule "CurrentLimiting-bucket"]
+	path = CurrentLimiting-bucket
+	url = https://github.com/llhere/CurrentLimiting-bucket.git
