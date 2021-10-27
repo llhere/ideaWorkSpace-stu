@@ -7,6 +7,3 @@
 [submodule "CurrentLimiting-bucket"]
 	path = CurrentLimiting-bucket
 	url = https://github.com/llhere/CurrentLimiting-bucket.git
-[submodule "EurekaColony"]
-	path = EurekaColony
-	url = https://github.com/llhere/EurekaColony.git
