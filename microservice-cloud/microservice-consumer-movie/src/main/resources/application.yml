@@ -1,0 +1,28 @@
+server:
+  port: 8081
+
+#项目名(eureka注册的模块名称)
+spring:
+  application:
+    name: movie
+
+#eureka
+eureka:
+  client:            #客户端注册进eureka服务列表内
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${spring.application.instance_id:${server.port}}
+
+#添加对该服务的描述信息
+info:
+  app.name: movie
+  company.name: www.chen1.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+
+#配置负负载均衡的方式，默认轮询
+user-chen:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule

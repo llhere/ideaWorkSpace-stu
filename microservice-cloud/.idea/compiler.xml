@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+      <entry name="*.idea" />
+      <entry name="*.iml" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-cloud" />
+        <module name="microservice-provider-user-8082" />
+        <module name="microservice-simple-provider-user" />
+        <module name="mictoservice-discovery-eurake" />
+        <module name="mictoservice-discovery-eurake-8762" />
+        <module name="mictoservice-discovery-eurake-8763" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="microservice-cloud" target="1.8" />
+      <module name="microservice-consumer-movie" target="1.8" />
+      <module name="microservice-consumer-movie-feign" target="1.8" />
+      <module name="microservice-provider-user-8082" target="1.8" />
+      <module name="microservice-simple-provider-user" target="1.8" />
+      <module name="mictoservice-discovery-eurake" target="1.8" />
+      <module name="mictoservice-discovery-eurake-8762" target="1.8" />
+      <module name="mictoservice-discovery-eurake-8763" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="EclipseCompilerSettings">
+    <option name="GENERATE_NO_WARNINGS" value="true" />
+  </component>
+</project>

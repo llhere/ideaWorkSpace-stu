@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Config-Center/Eureka-Config-Center.iml" filepath="$PROJECT_DIR$/Eureka-Config-Center/Eureka-Config-Center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Config-Center-client/Eureka-Config-Center-client.iml" filepath="$PROJECT_DIR$/Eureka-Config-Center-client/Eureka-Config-Center-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Provider/Eureka-Provider.iml" filepath="$PROJECT_DIR$/Eureka-Provider/Eureka-Provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" filepath="$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Consumer/chen-cloud-Eureka-Consumer.iml" filepath="$PROJECT_DIR$/Eureka-Consumer/chen-cloud-Eureka-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-cloud-mashibing.iml" filepath="$PROJECT_DIR$/chen-cloud-mashibing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>

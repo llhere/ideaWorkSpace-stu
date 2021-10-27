@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.chen.cloud</groupId>
+		<artifactId>chen-parent-cloud</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<groupId>com.chen.cloud</groupId>
+	<artifactId>microservice-cloud</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<modules>
+		<module>microservice-provider-user</module>
+		<module>microservice-consumer-movie</module>
+		<module>microservice-consumer-movie-feign</module>
+		<module>microservice-provider-user-8082</module>
+		<module>mictoservice-discovery-eurake</module>
+		<module>mictoservice-discovery-eurake-8762</module>
+		<module>mictoservice-discovery-eurake-8763</module>
+	</modules>
+
+
+
+
+</project>

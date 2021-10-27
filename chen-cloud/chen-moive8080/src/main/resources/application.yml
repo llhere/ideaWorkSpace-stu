@@ -1,0 +1,41 @@
+server:
+  port: 8080
+
+#springh2数据库 ， 项目名(eureka注册的模块名称)
+spring:
+  jpa:
+    generate-ddl: false
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+  datasource:
+    platform: h2
+    schema: classpath:schema.sql
+    data: classpath:data.sql
+  application:   #client的服务名
+    name: chen-moive
+
+#日志
+logging:
+  level:
+    root: INFO
+    org.hibernate: INFO
+    org.hibernate.type.descriptor.sql.BasicBinder: TPACE
+    org.hibernate.type.descriptor.sql.BasicExtractor: TPACE
+    com.itmuchL: DEBUG
+
+#eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${spring.application.instance_id:${server.port}}
+
+#添加对该服务的描述信息
+info:
+  app.name: user
+  company.name: www.cloud.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$

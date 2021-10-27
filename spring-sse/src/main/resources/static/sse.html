@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>sse</title>
+<script type="text/javascript">
+
+    //窗体加载完后
+    window.onload = function (){
+        //创建流媒体
+        var sse = new EventSource("/sse");
+        sse.onmessage = function(event){
+            document.getElementById("sse").innerHTML = event.data;
+        };
+    }
+
+</script>
+</head>
+<body>
+
+    <span id="sse"></span>
+
+</body>
+</html>

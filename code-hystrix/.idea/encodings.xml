@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-customizing-without-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-customizing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix-hystrix-factory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-properties-customizing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix-propagation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-without-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-discovery-eureka-ha/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-discovery-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-hystrix-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-hystrix-turbine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-hystrix-turbine2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-hystrix-turbine3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-provider-user/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

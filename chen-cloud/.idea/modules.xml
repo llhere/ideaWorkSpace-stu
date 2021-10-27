@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chen-cloud.iml" filepath="$PROJECT_DIR$/chen-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-moive8080/chen-moive8080.iml" filepath="$PROJECT_DIR$/chen-moive8080/chen-moive8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-moive8082/chen-moive8082.iml" filepath="$PROJECT_DIR$/chen-moive8082/chen-moive8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-user-with-hystrix/chen-user-with-hystrix.iml" filepath="$PROJECT_DIR$/chen-user-with-hystrix/chen-user-with-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" />
+    </modules>
+  </component>
+</project>

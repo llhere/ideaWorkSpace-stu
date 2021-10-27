@@ -1,0 +1,18 @@
+server:
+  port: 8762
+eureka:
+  client:
+    healthcheck:
+      enabled: true
+    registerWithEureka: true  #是否将自己注册到eureka中，默认为true
+    fetchRegistry: true         #是否从eureka中获取注册信息
+    serviceUrl:
+      #eureka客户端与服务端进行交互的地址
+      defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/,http://localhost:8763/eureka/
+  instance:
+    #hostname: localhost
+    prefer-ip-address: true
+    instanceId: ${spring.application.name}:${server.port} #:${vcap.application.instance_id:${spring.application.instance_id:${random.value}}}
+spring:
+  application:
+    name: chen-eureka

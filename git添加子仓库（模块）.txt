@@ -1,0 +1,5 @@
+在父目录根节点：
+    git submodule add https://github.com/llhere/CurrentLimiting.git CurrentLimiting
+    git status
+    git commit -m "add submodule  CurrentLimiting"
+    像远程仓库推送

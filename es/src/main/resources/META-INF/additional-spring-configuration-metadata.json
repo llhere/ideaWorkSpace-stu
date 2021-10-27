@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.data.elasticsearch.repositories.cluster-nodes",
+      "type": "java.lang.String",
+      "description": "Description for spring.data.elasticsearch.repositories.cluster-nodes."
+  }
+] }

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="630258fe-753d-4461-9e2f-ed66c048e7bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bak/microservice-simple-consumer-movie.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/microservice-simple-provider-user.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-provider-user/src/main/java/com/itmuch/cloud/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-provider-user/src/main/java/com/itmuch/cloud/controller/UserController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../apache-maven-3.6.0/repository" />
+        <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1c6cVWMbVTuYVWsUEZrA9TniPDh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerMovieFeignApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieFeignApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-feign-with-hystrix-hystrix-factory" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieFeignApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieFeignApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-feign-customizing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieFeignApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-feign-customizing-without-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-consumer-movie-feign-with-hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmuch.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieRibbonApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-consumer-movie-ribbon-with-hystrix2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmuch.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieRibbonApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon-without-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieRibbonApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon-with-hystrix3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieRibbonApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon-with-hystrix-propagation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieRibbonApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon-properties-customizing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieRibbonApplication (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieRibbonApplication (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-consumer-movie-ribbon-with-hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmuch.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-discovery-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmuch.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaHaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-discovery-eureka-ha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.EurekaHaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceSimpleConsumerMovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.MicroserviceSimpleConsumerMovieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceSimpleProviderUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-provider-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmuch.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.MicroserviceSimpleProviderUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurbineApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-hystrix-turbine3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.TurbineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurbineApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-hystrix-turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.TurbineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-hystrix-turbine2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.TurbineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" />
+      <predefined_log_file id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52061" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="false" />
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.692" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" />
+      <predefined_log_file id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59373" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MicroserviceSimpleConsumerMovieApplication" />
+      <item itemvalue="Spring Boot.EurekaHaApplication" />
+      <item itemvalue="Spring Boot.TurbineApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.MicroserviceSimpleProviderUserApplication" />
+      <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication" />
+      <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication (1)" />
+      <item itemvalue="Spring Boot.ConsumerMovieFeignApplication" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication (2)" />
+      <item itemvalue="Spring Boot.EurekaApplication (1)" />
+      <item itemvalue="Spring Boot.ConsumerMovieFeignApplication (1)" />
+      <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication (3)" />
+      <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication (4)" />
+      <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication (5)" />
+      <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication (6)" />
+      <item itemvalue="Spring Boot.ConsumerMovieFeignApplication (2)" />
+      <item itemvalue="Spring Boot.TurbineApplication (1)" />
+      <item itemvalue="Spring Boot.TurbineApplication (2)" />
+      <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication (7)" />
+      <item itemvalue="Spring Boot.ConsumerMovieFeignApplication (3)" />
+      <item itemvalue="Spring Boot.ConsumerMovieFeignApplication (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerMovieFeignApplication" />
+        <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication (1)" />
+        <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication" />
+        <item itemvalue="Spring Boot.MicroserviceSimpleProviderUserApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="630258fe-753d-4461-9e2f-ed66c048e7bc" name="Default Changelist" comment="" />
+      <created>1589852507490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589852507490</updated>
+      <workItem from="1589852510383" duration="4331000" />
+      <workItem from="1589866028848" duration="90000" />
+      <workItem from="1592292903122" duration="87000" />
+      <workItem from="1592293011190" duration="13000" />
+      <workItem from="1592293745007" duration="45000" />
+      <workItem from="1592294494892" duration="5000" />
+      <workItem from="1635311914923" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/microservice_spring_cloud$MicroserviceSimpleProviderUserApplication.ic" NAME="MicroserviceSimpleProviderUserApplication Coverage Results" MODIFIED="1589854242496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.itmuch.cloud.*</FILTER>
+    </SUITE>
+  </component>
+</project>

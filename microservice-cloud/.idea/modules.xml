@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../microservice-cloud-photoEggs/microservice-cloud.iml" filepath="$PROJECT_DIR$/../microservice-cloud-photoEggs/microservice-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microservice-cloud-photoEggs/microservice-consumer-movie/microservice-consumer-movie.iml" filepath="$PROJECT_DIR$/../microservice-cloud-photoEggs/microservice-consumer-movie/microservice-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microservice-cloud-photoEggs/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" filepath="$PROJECT_DIR$/../microservice-cloud-photoEggs/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microservice-cloud-photoEggs/microservice-provider-user-8082/microservice-provider-user-8082.iml" filepath="$PROJECT_DIR$/../microservice-cloud-photoEggs/microservice-provider-user-8082/microservice-provider-user-8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microservice-cloud-photoEggs/microservice-provider-user/microservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/../microservice-cloud-photoEggs/microservice-provider-user/microservice-simple-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microservice-cloud-photoEggs/mictoservice-discovery-eurake/mictoservice-discovery-eurake.iml" filepath="$PROJECT_DIR$/../microservice-cloud-photoEggs/mictoservice-discovery-eurake/mictoservice-discovery-eurake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microservice-cloud-photoEggs/mictoservice-discovery-eurake-8762/mictoservice-discovery-eurake-8762.iml" filepath="$PROJECT_DIR$/../microservice-cloud-photoEggs/mictoservice-discovery-eurake-8762/mictoservice-discovery-eurake-8762.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microservice-cloud-photoEggs/mictoservice-discovery-eurake-8763/mictoservice-discovery-eurake-8763.iml" filepath="$PROJECT_DIR$/../microservice-cloud-photoEggs/mictoservice-discovery-eurake-8763/mictoservice-discovery-eurake-8763.iml" />
+    </modules>
+  </component>
+</project>

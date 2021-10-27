@@ -1,0 +1,44 @@
+server:
+  port: 8083
+
+#项目名(eureka注册的模块名称)
+spring:
+  application:
+    name: chen-user
+  main:
+    allow-bean-definition-overriding: true
+
+#eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${spring.application.instance_id:${server.port}}
+
+#添加对该服务的描述信息
+info:
+  app.name: movie
+  company.name: www.chen1.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+
+#提供者的负载方式，默认轮询
+chen-cloud-user:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
+
+#开启hystrix配置
+#feign:
+#  hystrix:
+#    enabled: true
+
+management:
+  endpoint:
+    health:
+      show-details: always   #允许显示/actuator/health信息
+  endpoints:
+    web:
+      exposure:
+        include: '*'   #允许显示所有信息，包括/actuator/health，/actuator/hystrix.stream
