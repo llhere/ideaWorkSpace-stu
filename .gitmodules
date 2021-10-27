@@ -4,3 +4,6 @@
 [submodule "CurrentLimiting-bucket"]
 	path = CurrentLimiting-bucket
 	url = https://github.com/llhere/CurrentLimiting-bucket.git
+[submodule "CurrentLimiting"]
+	path = CurrentLimiting
+	url = https://github.com/llhere/CurrentLimiting.git
