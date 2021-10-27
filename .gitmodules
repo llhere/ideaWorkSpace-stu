@@ -7,3 +7,6 @@
 [submodule "CurrentLimiting-bucket"]
 	path = CurrentLimiting-bucket
 	url = https://github.com/llhere/CurrentLimiting-bucket.git
+[submodule "EurekaConlony"]
+	path = EurekaConlony
+	url = https://github.com/llhere/EurekaConlony.git
