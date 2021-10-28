@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="allen-mvc:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9214f2ad-4bc9-4131-91be-ea6271b10940" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../rabbitmq-springboot/src/main/java/com/study/example/RabbitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmq-springboot/src/main/resources/banner1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/SendMQTemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-mycat/src/main/java/com/study/mycat/conf/SwaggerMvnConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-skywalking/agent/config/agent.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-skywalking/agent_dubbo/config/agent.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/src/main/java/com/study/cnf/config/ftp.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../configuration/src/main/java/com/study/cnf/config/ftp.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/src/main/resources/ftp.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../configuration/src/main/resources/ftp.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configuration/src/main/resources/spring/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../configuration/src/main/resources/spring/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orderIdGenerate/src/main/resources/spring-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../orderIdGenerate/src/main/resources/spring-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq-springboot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq-springboot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq-springboot/src/main/java/com/study/rabbitmq/config/BeanInject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq-springboot/src/main/java/com/study/rabbitmq/config/RequestFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq-springboot/src/main/java/com/study/rabbitmq/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq-springboot/src/main/java/com/study/rabbitmq/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq-springboot/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq-springboot/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/AppAmqpTemplateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/SendRestTemplateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/ConsumerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/uilt/ConsumerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/ProducerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/uilt/ProducerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/YHTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/uilt/YHTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/YanghuiTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq-springboot/src/test/java/com/study/rabbitmq/uilt/YanghuiTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session-cluster/session-boot/src/main/java/com/study/sessdemo/controller/SessionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session-cluster/session-boot/src/main/java/com/study/sessdemo/controller/SessionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session-cluster/session-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session-cluster/session-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session-cluster/session-web/src/main/resources/spring-mvc-annotation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session-cluster/session-web/src/main/resources/spring-mvc-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session-cluster/session-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session-cluster/session-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/agent/config/agent.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/agent/optional-plugins/apm-trace-ignore-plugin/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/agent/optional-plugins/apm-trace-ignore-plugin/README_CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/agent/optional-plugins/apm-trace-ignore-plugin/apm-trace-ignore-plugin.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-mycat/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/skywalking.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/src/main/java/com/study/mycat/SpringBootMycatApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-mycat/src/main/java/com/study/mycat/SpringBootMycatApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/src/main/java/com/study/mycat/conf/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-mycat/src/main/java/com/study/mycat/conf/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/src/main/java/com/study/mycat/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-mycat/src/main/java/com/study/mycat/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-mycat/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-mycat/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-mycat/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-mycat/src/test/java/com/study/mycat/InsertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-mycat/src/test/java/com/study/mycat/InsertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srwdb/src/main/java/com/study/rwdb/DynamicPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../srwdb/src/main/java/com/study/rwdb/DynamicPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srwdb/src/main/resources/datasource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../srwdb/src/main/resources/datasource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srwdb/src/test/java/com/study/service/InsertTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../srwdb/src/test/java/com/study/service/InsertTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/mvc/controller/StudyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/mvc/controller/StudyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/mvc/servlet/DispatcherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/mvc/servlet/DispatcherServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-redis-locks/src/main/java/com/study/locks/RedisDistributeLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../study-redis-locks/src/main/java/com/study/locks/RedisDistributeLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-redis-locks/src/main/java/com/study/locks/SellTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../study-redis-locks/src/main/java/com/study/locks/SellTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-redis-locks/src/main/java/com/study/locks/SellTicketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../study-redis-locks/src/main/java/com/study/locks/SellTicketTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-redis-locks/src/main/java/com/study/locks/SellTicket_Sync.java" beforeDir="false" afterPath="$PROJECT_DIR$/../study-redis-locks/src/main/java/com/study/locks/SellTicket_Sync.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-redis-locks/src/main/java/com/study/sync/SyncTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../study-redis-locks/src/main/java/com/study/sync/SyncTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-redis-locks/src/main/resources/lua/lock.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../study-redis-locks/src/main/resources/lua/lock.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-redis-locks/src/main/resources/lua/lua执行" beforeDir="false" afterPath="$PROJECT_DIR$/../study-redis-locks/src/main/resources/lua/lua执行" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-redis-locks/src/main/resources/lua/unlock.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../study-redis-locks/src/main/resources/lua/unlock.lua" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.20.0" />
+      </map>
+    </option>
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/controller/StudyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dongnaoedu</find>
+      <find>testService</find>
+      <find>key</find>
+      <find>ioc</find>
+      <find>handlerMapping</find>
+      <find>controllerMap</find>
+      <find>FOUND</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>study</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/servlet/MyDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/annotation/Qualifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/annotation/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/annotation/RequestParam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/annotation/RequestMapping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/annotation/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/service/StudyService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/service/impl/TestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/service/impl/StudyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/main.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/servlet/DispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/controller/StudyController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/mvc/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\.m2\repository" />
+        <option name="mavenHome" value="D:/soft/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="353" />
+    <option name="y" value="18" />
+    <option name="width" value="1035" />
+    <option name="height" value="686" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="study-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-mvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="D:/soft/node-v8.11.3-win-x64/node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study_163\netease_public_lesson\study-mvc\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_allen-mvc" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51941" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="51942" />
+        <option name="visualVMId" value="102320609737235" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="springmvc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.78" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="allen-mvc:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_allen-mvc_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51943" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="51944" />
+        <option name="visualVMId" value="102325016647297" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="allen-mvc:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9214f2ad-4bc9-4131-91be-ea6271b10940" name="Default" comment="" />
+      <created>1543224331027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543224331027</updated>
+      <workItem from="1543224333585" duration="3864000" />
+      <workItem from="1543231098541" duration="151000" />
+      <workItem from="1543396311518" duration="185000" />
+      <workItem from="1545812087184" duration="6014000" />
+      <workItem from="1552965289997" duration="5696000" />
+      <workItem from="1553684152882" duration="6097000" />
+      <workItem from="1553859101914" duration="142000" />
+      <workItem from="1554032662076" duration="342000" />
+      <workItem from="1556165084612" duration="1230000" />
+      <workItem from="1558782509312" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23749000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="UI Designer" order="0" />
+      <window_info id="Web" order="1" sideWeight="0.5029821" side_tool="true" weight="0.44900104" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.4970179" visible="true" weight="0.43374422" />
+      <window_info id="Structure" order="5" weight="0.19722651" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="3" weight="0.3415493" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.3882784" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" weight="0.32922536" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="9" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="10" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
+      <window_info anchor="bottom" id="Message" order="12" />
+      <window_info anchor="bottom" id="Find" order="13" weight="0.31690142" />
+      <window_info anchor="bottom" id="Run" order="14" weight="0.40108696" />
+      <window_info anchor="bottom" id="Debug" order="15" weight="0.38732395" />
+      <window_info anchor="bottom" id="Cvs" order="16" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="17" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="18" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.20788337" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/mvc/servlet/DispatcherServlet.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/mvc/controller/StudyController.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/annotation/RequestParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allen-mvc/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/study/mvc/servlet/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/annotation/Qualifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/annotation/RequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar!/javax/servlet/http/HttpServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="119" column="33" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/service/StudyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/service/impl/StudyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2262">
+          <caret line="97" column="4" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/annotation/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/annotation/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/mvc/controller/StudyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>allen-mvc:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>allen-mvc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23357664" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:3.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33300298" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

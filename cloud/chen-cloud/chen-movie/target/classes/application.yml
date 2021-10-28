@@ -1,0 +1,23 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: chen-cloud-movie
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${spring.application.instance_id:${server.port}}
+#添加对该服务的描述信息
+info:
+  app.name: movie
+  company.name: www.chen1.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+
+#提供者的负载方式，默认轮询，这里改为随机
+chen-cloud-user:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule

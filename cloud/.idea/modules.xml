@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chen-cloud/chen-cloud.iml" filepath="$PROJECT_DIR$/chen-cloud/chen-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-cloud/chen-movie/chen-movie.iml" filepath="$PROJECT_DIR$/chen-cloud/chen-movie/chen-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-cloud/chen-movie-with-hystrix/chen-movie-with-hystrix.iml" filepath="$PROJECT_DIR$/chen-cloud/chen-movie-with-hystrix/chen-movie-with-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-parent-cloud.iml" filepath="$PROJECT_DIR$/chen-parent-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-cloud/chen-user/chen-user.iml" filepath="$PROJECT_DIR$/chen-cloud/chen-user/chen-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-cloud/chen-user8082/chen-user8082.iml" filepath="$PROJECT_DIR$/chen-cloud/chen-user8082/chen-user8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-cloud/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/chen-cloud/cloud-eureka/cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-cloud/cloud-eureka8762/cloud-eureka8762.iml" filepath="$PROJECT_DIR$/chen-cloud/cloud-eureka8762/cloud-eureka8762.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-cloud/cloud-eureka8764/cloud-eureka8764.iml" filepath="$PROJECT_DIR$/chen-cloud/cloud-eureka8764/cloud-eureka8764.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cloud/microservice-cloud.iml" filepath="$PROJECT_DIR$/microservice-cloud/microservice-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cloud/microservice-consumer-movie/microservice-consumer-movie.iml" filepath="$PROJECT_DIR$/microservice-cloud/microservice-consumer-movie/microservice-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cloud/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" filepath="$PROJECT_DIR$/microservice-cloud/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cloud/microservice-provider-user-8082/microservice-provider-user-8082.iml" filepath="$PROJECT_DIR$/microservice-cloud/microservice-provider-user-8082/microservice-provider-user-8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cloud/microservice-provider-user/microservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/microservice-cloud/microservice-provider-user/microservice-simple-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cloud/mictoservice-discovery-eurake/mictoservice-discovery-eurake.iml" filepath="$PROJECT_DIR$/microservice-cloud/mictoservice-discovery-eurake/mictoservice-discovery-eurake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cloud/mictoservice-discovery-eurake-8762/mictoservice-discovery-eurake-8762.iml" filepath="$PROJECT_DIR$/microservice-cloud/mictoservice-discovery-eurake-8762/mictoservice-discovery-eurake-8762.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cloud/mictoservice-discovery-eurake-8763/mictoservice-discovery-eurake-8763.iml" filepath="$PROJECT_DIR$/microservice-cloud/mictoservice-discovery-eurake-8763/mictoservice-discovery-eurake-8763.iml" />
+    </modules>
+  </component>
+</project>

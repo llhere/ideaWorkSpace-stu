@@ -1,0 +1,12 @@
+server:
+  servlet:
+    context-path: /chen
+spring:
+  thymeleaf:
+    cache: false
+    prefix: classpath:/template/
+    suffix: .html
+    encoding: utf-8
+    servlet:
+      content-type: text/html
+    mode: HTML5

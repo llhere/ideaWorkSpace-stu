@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:context="http://www.springframework.org/schema/context" xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+	http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.3.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd
+	http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.3.xsd
+	http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.3.xsd">
+	<!-- 需要配置controller ,handlerMapping,ViewResolver视图解析器,intercepor -->
+
+	<!-- mvc的注解驱动 HandlerMapper 与 HandAdapter -->
+	<!-- 转化json -->
+	<mvc:annotation-driven />
+	<!-- 扫描器 一旦有扫描器的定义，mvc:annotation-driven不需要，扫描器已经有了注解的功能 -->
+	<context:component-scan base-package="teach.code.controller" />
+
+
+	<!-- <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver"> 
+		<property name="maxUploadSize"> <value>104857600</value> </property> <property 
+		name="maxInMemorySize"> <value>4096</value> </property> </bean> -->
+
+	<!-- 使用默认默认映射处理器映射controller -->
+	<!-- <bean id="testController" name="/hello.do" class="www.change.tm.shop.controller.TestController" 
+		/> -->
+
+	<!-- 系统拦截器,判断用户是否登录系统 -->
+	<!-- <mvc:interceptors> <bean class="com.chy.www.common.SystemInterceptor" 
+		/> <bean class="com.chy.www.common.CheckTwoUser" /> </mvc:interceptors> -->
+
+	<!-- 加载视图解析器 -->
+	<bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<!-- 前缀 指定到WebContent某一文件路径下，比较浅的文件路径 大家公用，太深了不能公用只能自己单用 -->
+		<property name="prefix" value="/WEB-INF/jsp/"></property>
+		<!-- 视图名称后缀 -->
+		<property name="suffix" value=".jsp"></property>
+	</bean>
+
+
+
+	<!-- 配置数据源事务 -->
+	<bean id="transactionManager"
+		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
+
+
+
+	<!--巨坑！开启shiro权限注解-->
+	<aop:config proxy-target-class="true"/>
+
+
+
+
+</beans>

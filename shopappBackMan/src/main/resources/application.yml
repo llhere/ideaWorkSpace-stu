@@ -1,0 +1,9 @@
+#jsp≈‰÷√
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+server:
+  tomcat:
+    uri-encoding: UTF-8

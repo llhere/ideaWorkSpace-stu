@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="beautWall:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="chen.war">
+      <element id="artifact" artifact-name="beautWall:war exploded" />
+    </root>
+  </artifact>
+</component>
