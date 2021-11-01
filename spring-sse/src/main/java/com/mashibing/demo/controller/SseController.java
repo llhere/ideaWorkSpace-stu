@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @Deacription
+ * @Deacription 模拟长链接（前台轮询）
  * @Author chenpengwei
  * @Date 2021/10/25 4:31 下午
  * @Version 1.0
