@@ -40,7 +40,7 @@ public class SeeRestController {
         //超时回调，删除建立的链接
         sseEmitter.onTimeout(() -> sseCache.remove(id));
         //结束之后回调，打印信息
-        sseEmitter.onCompletion(() -> System.out.println("完成"));
+        sseEmitter.onCompletion(() -> System.out.println("建立链接完成"));
 
         return sseEmitter;
     }
@@ -65,6 +65,7 @@ public class SeeRestController {
 
         return "push成功";
     }
+
 
     /**
      * @description 断开连接

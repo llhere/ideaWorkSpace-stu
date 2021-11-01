@@ -8,6 +8,7 @@
 
     //窗体加载完后
     window.onload = function (){
+
         var source = new EventSource('sse/subscribe?id=user1');
         source.onmessage = function (event) {
             text = document.getElementById('sseRest').innerText;
