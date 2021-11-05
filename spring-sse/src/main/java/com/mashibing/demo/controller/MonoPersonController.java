@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Mono;
 
 /**
- * @Deacription
+ * @Deacription mono
  * @Author chenpengwei
  * @Date 2021/11/5 2:08 下午
  * @Version 1.0
@@ -20,7 +20,13 @@ public class MonoPersonController {
     PersonService personService;
 
 
-
+    /**
+     * @description mono获取数据例子，这里还是用一个线程
+     * @Param []
+     * @return reactor.core.publisher.Mono<java.lang.Object>
+     * @author chenpengwei
+     * @date 2021/11/5
+     */
     @RequestMapping("getPerson")
     public Mono<Object> getMonoPerson(){
 

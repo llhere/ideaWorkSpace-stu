@@ -6,13 +6,12 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.5.6</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 	<groupId>com.mashibing</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>sse</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>SSE</name>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -28,20 +27,17 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- Flux -->
+		<!-- webflux -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-webflux</artifactId>
 		</dependency>
 
-		<!-- rxJava -->
+		<!-- rxJava、mono、Flux -->
 		<dependency>
 			<groupId>io.reactivex.rxjava2</groupId>
 			<artifactId>rxjava</artifactId>
 		</dependency>
-
-
-
 
 	</dependencies>
 
