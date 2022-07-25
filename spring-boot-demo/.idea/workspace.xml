@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e594f9c3-1198-4a98-91a6-ce02f5a1f199" name="Default Changelist" comment="" />
+    <list default="true" id="e594f9c3-1198-4a98-91a6-ce02f5a1f199" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-sse/src/main/java/com/mashibing/demo/controller/WebFluxController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
     <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -35,6 +37,7 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1ckjUBVWK1A98qLWHHd4K98xgJE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,17 +66,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1160,6 +1152,7 @@
       <workItem from="1591089413215" duration="56000" />
       <workItem from="1634094905312" duration="484000" />
       <workItem from="1635301276650" duration="515000" />
+      <workItem from="1641979068717" duration="19000" />
     </task>
     <servers />
   </component>

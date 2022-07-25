@@ -1,0 +1,91 @@
+# mybatis-plus
+mybatis-plus:
+  # SQL语句输出在控制台
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  # 映射文件相关
+  mapper-locations: classpath*:bml/business/mapper/xml/*.xml
+  type-aliases-package: bml.business.mapper
+
+
+spring:
+  datasource:
+    # 数据源
+    db1:
+      driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+      url: jdbc:sqlserver://23.156.5.42:1433;databasename=WIDHL_Admin_Dev;integratedSecurity=true;domain=kul-dc.dhl.com;authenticationScheme=ntlm;SelectMethod=cursor;trustServerCertificate=true;
+      username: srv_cnexp_wiplus_uat
+      password: R5p66nELeoCL49f+
+      type: com.alibaba.druid.pool.DruidDataSource
+
+  quartz:
+    properties:
+      org:
+        quartz:
+          scheduler:
+            # 默认
+            instanceName: DemoScheduler
+            # 如果使用集群，instanceId必须唯一，设置成AUTO
+            instanceId: AUTO
+          jobStore:
+            # 存储方式使用JobStoreTX 也就是数据库
+            class: org.springframework.scheduling.quartz.LocalDataSourceJobStore
+            driverDelegateClass: org.quartz.impl.jdbcjobstore.MSSQLDelegate
+            # 表名前缀
+            tablePrefix: QRTZ_
+            # 是否使用集群
+            isClustered: true
+            #调度实例失效的检查时间间隔
+            clusterCheckinInterval: 10000
+            useProperties: false
+            #调度引擎设置触发器超时的临界值，超过这个时间调度器认为是任务已延迟
+            misfireThreshold: 1000
+          threadPool:
+            class: org.quartz.simpl.SimpleThreadPool
+            #最大任务数量线程
+            threadCount: 20
+            #初始化任务数量线程
+            threadPriority: 5
+            threadsInheritContextClassLoaderOfInitializingThread: true
+    job-store-type: jdbc
+    jdbc:
+      # 启动项目时是否初始化表
+      initialize-schema: never
+
+  mvc:
+    # 静态资源文件
+    static-path-pattern: /static/**
+    # swagger路径匹配规则
+#    pathmatch:
+#      matching-strategy: ant_path_matcher
+
+  thymeleaf:
+    # 禁用缓存
+    cache: false
+
+
+server:
+  port: 8080
+
+
+# Swagger配置，ip:port/swagger-ui/index.html
+#swagger:
+#  # 是否开启swagger
+#  enabled: true
+
+#actuator配置
+#management:
+#  endpoints:
+#    web:
+#        #端点前缀路径
+#      base-path: /
+#      exposure:
+#        #actuator默认只开启了info和health两个端点，以下开启所有的端点
+#        include: '*'
+#  endpoint:
+#    health:
+#      #开启健康监控数据
+#      show-details: always
+#    httptrace:
+#      #启用httptrace端点
+#      enabled: true
